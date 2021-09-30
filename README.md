@@ -4,6 +4,8 @@
 2015.03~2021.08 Kyunghee University Electronic Engineering
 <br>
 2021.07 ~ SSAFY 06기
+<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Hwannam/Hwannam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
