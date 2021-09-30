@@ -1,9 +1,11 @@
 ### Hi there 👋
-안녕하세요!
+
 <br>
 2015.03~2021.08 Kyunghee University Electronic Engineering
 <br>
+<br>
 🔭 I’m currently working on
+<br>
 2021.07 ~ SSAFY 06기
 <br>
 
