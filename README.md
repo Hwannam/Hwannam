@@ -6,7 +6,8 @@
 <br>
 🔭 I’m currently working on
 <br>
-2021.07 ~ SSAFY 06기
+2021.07 ~ <br> 
+SSAFY 06기
 <br>
 
 
