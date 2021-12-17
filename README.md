@@ -1,11 +1,11 @@
-### 😊 Nice to meet you! 😊
+## 😊 Nice to meet you! 😊
 
 <br>
-🏫 2015.03~2021.08 : 'Kyunghee University Electronic Engineering'
+🏫 2015.03~2021.08 : `Kyunghee University Electronic Engineering`
 <br>
 <br>
 <br>
-💻 2021.07 ~ : 'SSAFY(Samsung Software Academy For Youth) 6th'
+💻 2021.07 ~ : `SSAFY(Samsung Software Academy For Youth) 6th`
 <br>
 <br>
 <br>
