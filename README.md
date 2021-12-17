@@ -1,26 +1,27 @@
 ## 😊 Nice to meet you! 😊
-
-<br>
-🏫 2015.03~2021.08 : ```Kyunghee University Electronic Engineering```
-<br>
+🏫 2015.03~2021.08 : ```Kyunghee University _ Electronic Engineering```
 <br>
 <br>
 💻 2021.07 ~ : `SSAFY(Samsung Software Academy For Youth) 6th`
 <br>
 <br>
-<br>
 🏬
-<!--
-**Hwannam/Hwannam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Contact to
+<img
+src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:@gmail.com"
+style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br>
+<h2>📚 Stack & Learning</h2>
+<div>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=git&logoColor=white">
+</div>
