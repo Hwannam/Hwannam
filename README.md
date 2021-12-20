@@ -2,7 +2,7 @@
 🏫 2015.03~2021.08 : ```Kyunghee University _ Electronic Engineering```
 <br>
 <br>
-💻 2021.07 ~ : `SSAFY(Samsung Software Academy For Youth) 6th`
+💻 2021.07 ~ 2021.12 : `SSAFY(Samsung Software Academy For Youth) 6th`
 <br>
 <br>
 🏬
