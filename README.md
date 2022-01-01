@@ -5,7 +5,7 @@
 💻 2021.07 ~ 2021.12 : `SSAFY(Samsung Software Academy For Youth) 6th`
 <br>
 <br>
-🏬
+🏬 2022.02 ~ : `Hyundai Mobis`
 
 
 
